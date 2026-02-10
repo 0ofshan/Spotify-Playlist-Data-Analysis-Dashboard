@@ -22,9 +22,9 @@ Dynamic Charts for trend and performance visualization
 
 📊 Spotify_Playlist_Analysis.xlsx — Complete interactive dashboard
 
-📁 PlaylistData — Raw and cleaned playlist data
+📁 PlaylistData — Raw and cleaned playlist data (included in main .xlsx file)
 
-🖼 Screenshots/ — Dashboard visual previews
+🖼 Screenshots/ — Dashboard visual previews (at the top of readme)
 
 
 🔍 Key Insights Discovered
