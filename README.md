@@ -3,6 +3,10 @@
 An interactive Excel analytics project built to explore Spotify playlist data and uncover meaningful insights about listening behavior, genre preferences, artist popularity, and temporal streaming patterns.
 This dashboard transforms raw playlist data into a visually engaging and insight-driven analytical experience.
 
+
+<img width="1920" height="1137" alt="Screenshot 2026-02-10 190144" src="https://github.com/user-attachments/assets/05367e1f-b938-4be8-b863-8135019f5ca8" />
+
+
 🚀 Tools & Technologies
 
 Excel for data analysis and dashboard creation
@@ -13,6 +17,7 @@ Slicers for interactive filtering
 
 Dynamic Charts for trend and performance visualization
 
+
 📂 Project Structure
 
 📊 Spotify_Playlist_Analysis.xlsx — Complete interactive dashboard
@@ -20,6 +25,7 @@ Dynamic Charts for trend and performance visualization
 📁 PlaylistData — Raw and cleaned playlist data
 
 🖼 Screenshots/ — Dashboard visual previews
+
 
 🔍 Key Insights Discovered
 
@@ -30,6 +36,7 @@ Dynamic Charts for trend and performance visualization
 📆 Yearly and monthly trend analysis highlights changes in listening behavior over time.
 
 📊 Stream patterns show seasonal spikes and consistent engagement across selected playlists.
+
 
 🧭 How to Explore the Dashboard
 
